@@ -4,6 +4,8 @@ import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.io.UnsupportedEncodingException;
+import java.net.URLEncoder;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
@@ -38,12 +40,27 @@ public class FileMessageDisplay implements MessageDisplay {
     	String fileName = "test.txt";
   
     	String path = this.getClass().getClassLoader().getResource(".").getFile();
+    	
+    	//the following way should probably be better. but file created has filename of the whole path
+//    	path = path.replaceAll("%20", " ");
+    	
+//    	try {
+//			path = URLEncoder.encode(path, "UTF-8");
+//		} catch (UnsupportedEncodingException e2) {
+//			// TODO Auto-generated catch block
+//			e2.printStackTrace();
+//		}
+//    	System.out.println(path);
+    	
 
-    	//create file
+//    	//create file called "test.txt" at location of path variable
+//    	File file = new File(path + fileName);
+    	
+    	//create a file
     	File file = new File(fileName);
     	
-    	//file will be created at location
-    	System.out.println("File location: " + System.getProperty("user.dir"));
+    	//path of the user directory
+    	System.out.println(System.getProperty("user.dir"));
     	
     	try {
 			if (file.createNewFile()) {

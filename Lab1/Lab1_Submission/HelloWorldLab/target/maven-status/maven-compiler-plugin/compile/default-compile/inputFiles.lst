@@ -1,8 +1,7 @@
-/Users/ubhandari2/OneDrive - Maharishi University of Management/Ujjwol/MUM/MyCourses/EA/Labs/Lab1/HelloWorldLab/src/main/java/edu/mum/component/MessageOrigin.java
-/Users/ubhandari2/OneDrive - Maharishi University of Management/Ujjwol/MUM/MyCourses/EA/Labs/Lab1/HelloWorldLab/src/main/java/edu/mum/component/impl/HelloWorldMessageOrigin.java
-/Users/ubhandari2/OneDrive - Maharishi University of Management/Ujjwol/MUM/MyCourses/EA/Labs/Lab1/HelloWorldLab/src/main/java/edu/mum/component/impl/HelloWorldMessageSource.java
-/Users/ubhandari2/OneDrive - Maharishi University of Management/Ujjwol/MUM/MyCourses/EA/Labs/Lab1/HelloWorldLab/src/main/java/edu/mum/component/impl/StandardOutMessageDisplay.java
-/Users/ubhandari2/OneDrive - Maharishi University of Management/Ujjwol/MUM/MyCourses/EA/Labs/Lab1/HelloWorldLab/src/main/java/edu/mum/component/impl/FileMessageDisplay.java
-/Users/ubhandari2/OneDrive - Maharishi University of Management/Ujjwol/MUM/MyCourses/EA/Labs/Lab1/HelloWorldLab/src/main/java/edu/mum/HelloWorld.java
-/Users/ubhandari2/OneDrive - Maharishi University of Management/Ujjwol/MUM/MyCourses/EA/Labs/Lab1/HelloWorldLab/src/main/java/edu/mum/component/MessageDisplay.java
-/Users/ubhandari2/OneDrive - Maharishi University of Management/Ujjwol/MUM/MyCourses/EA/Labs/Lab1/HelloWorldLab/src/main/java/edu/mum/JavaConfiguration.java
+/Users/ubhandari2/OneDrive - Maharishi University of Management/Ujjwol/MUM/MyCourses/EA/Labs/Lab1/Lab1_Submission/HelloWorldLab/src/main/java/edu/mum/component/MessageOrigin.java
+/Users/ubhandari2/OneDrive - Maharishi University of Management/Ujjwol/MUM/MyCourses/EA/Labs/Lab1/Lab1_Submission/HelloWorldLab/src/main/java/edu/mum/component/impl/FileMessageDisplay.java
+/Users/ubhandari2/OneDrive - Maharishi University of Management/Ujjwol/MUM/MyCourses/EA/Labs/Lab1/Lab1_Submission/HelloWorldLab/src/main/java/edu/mum/component/impl/HelloWorldMessageOrigin.java
+/Users/ubhandari2/OneDrive - Maharishi University of Management/Ujjwol/MUM/MyCourses/EA/Labs/Lab1/Lab1_Submission/HelloWorldLab/src/main/java/edu/mum/HelloWorld.java
+/Users/ubhandari2/OneDrive - Maharishi University of Management/Ujjwol/MUM/MyCourses/EA/Labs/Lab1/Lab1_Submission/HelloWorldLab/src/main/java/edu/mum/JavaConfiguration.java
+/Users/ubhandari2/OneDrive - Maharishi University of Management/Ujjwol/MUM/MyCourses/EA/Labs/Lab1/Lab1_Submission/HelloWorldLab/src/main/java/edu/mum/component/impl/StandardOutMessageDisplay.java
+/Users/ubhandari2/OneDrive - Maharishi University of Management/Ujjwol/MUM/MyCourses/EA/Labs/Lab1/Lab1_Submission/HelloWorldLab/src/main/java/edu/mum/component/MessageDisplay.java
