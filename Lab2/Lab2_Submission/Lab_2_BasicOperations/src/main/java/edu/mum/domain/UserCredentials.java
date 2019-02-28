@@ -12,7 +12,7 @@ import javax.persistence.Transient;
 public class UserCredentials {
 
 	@Id
-	@GeneratedValue(strategy=GenerationType.IDENTITY)
+//	@GeneratedValue(strategy=GenerationType.IDENTITY)  //because no auto-increment for username
 	@Column(name="user", length=127)
   	String username;
 	
